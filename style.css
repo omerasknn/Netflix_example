@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(http://127.0.0.1:5500/img/netflix%20background.jpg);
+
+    color: white;
+    
+}
+
+div{
+    text-align: center;
+}
+
+.form{
+    background-color: rgba(0, 0, 0, 0.5);    
+
+    margin: auto ;
+    width: 90%;
+    height: 1000px;
+
+    padding: 20px;
+    
+
+}
+    
+.type{
+    background-color: rgba(0, 0, 0, 0.795);
+    width: 400px;
+    margin: auto;
+    
+}
+    
+
+#flix{
+    color: red;
+}
+    
+#baslık{
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.input{
+    width: 90%;
+    height: 40px;
+}
+
+#submit{
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    padding: 10px;
+    width: 100px;
+    
+
+}
+    
+    
+
+    
+
+
+
+    
+  
+
+
+
+
