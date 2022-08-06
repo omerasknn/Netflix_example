@@ -2,12 +2,9 @@
     box-sizing: border-box;
 }
 
-body{
-    background-image: url(http://127.0.0.1:5500/img/netflix%20background.jpg);
-
-    color: white;
-    
-}
+body{    
+    background-image: url(./img/netflix%20background.jpg);
+    color: white;    }
 
 div{
     text-align: center;
